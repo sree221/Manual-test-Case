@@ -50,3 +50,5 @@ public class Automation_testing {
         driver.quit();
     }
 }
+![Screenshot 2024-12-11 175956](https://github.com/user-attachments/assets/2a9e605c-6732-4598-a97d-384c4cef1df3)
+
